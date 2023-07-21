@@ -3,7 +3,7 @@
 ## Project Overview
 
 
-This is a final project of the Summer Club-Data Science Class presented by Generation Girl, 
+This is a freelance project from my client, 
 using data from Kaggle - OSMI (https://www.kaggle.com/datasets/osmi/mental-health-in-tech-survey) 
 and for this project, We choose the survey from 2014.
 
